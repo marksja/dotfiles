@@ -1,0 +1,5 @@
+#CAEN
+Host marksja
+	HostName login.engin.umich.edu
+	User marksja
+	Compression yes

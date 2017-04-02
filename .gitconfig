@@ -3,12 +3,9 @@
 	filemode = true
 	bare = false
 	logallrefupdates = true
-[remote "origin"]
-	url = https://github.com/eecs482/marksja.1.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
 [alias]
 	st = status
-	
+
 [user]
 	name = marksja
 	email = marksja@umich.edu
